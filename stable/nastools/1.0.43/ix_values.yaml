@@ -1,4 +1,4 @@
 image:
   pullPolicy: IfNotPresent
-  repository: jxxghp/nas-tools
+  repository: nastools/nas-tools
   tag: latest
