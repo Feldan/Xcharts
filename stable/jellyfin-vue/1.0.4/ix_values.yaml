@@ -1,0 +1,4 @@
+image:
+  pullPolicy: IfNotPresent
+  repository: jellyfin/jellyfin-vue
+  tag: unstable
