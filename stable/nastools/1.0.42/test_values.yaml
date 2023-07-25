@@ -12,8 +12,8 @@ environmentVariables: []
 extraAppVolumeMounts: []
 image:
   pullPolicy: IfNotPresent
-  repository: jxxghp/nas-tools
-  tag: latest
+  repository: nastools/nas-tools
+  tag: v2.9.1
 ownerGID: 568
 ownerUID: 568
 tcp_port: 3000
